@@ -46,3 +46,9 @@ button {
 button:hover {
     background-color: #45a049;
 }
+
+#greeting {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #4CAF50;
+}
